@@ -1,3 +1,3 @@
 run-dist:
-	./build/install/java-package/bin/java-pakage
+	./build/install/app/bin/app
 
